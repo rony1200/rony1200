@@ -12,6 +12,7 @@ I am graduated with a Bachelor of Technology in Electronics and Communication fr
 * 🧠  I'm learning Generative AI
 * 🤝  I'm open to collaborating on interesting projects
 
+
 ### Skills
 
 
