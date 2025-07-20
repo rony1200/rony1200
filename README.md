@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priyanshu Ganguly
+Hello!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priyanshu Ganguly.
 =========================================================================================================================================
 
 ELECTRONICS AND COMMUNICATION UG | FRONTEND WEB DEVELOPER
@@ -7,8 +7,8 @@ ELECTRONICS AND COMMUNICATION UG | FRONTEND WEB DEVELOPER
 I am graduated with a Bachelor of Technology in Electronics and Communication from Dr B.C.Roy Engineering College, specializing in IoT-enabled Smart Gas Sensing Systems. I have experience in HTML, SQL, CSS, Arduino, Prompt Engineering. My hobbies are in photography, sports, and music. I am eager to explore new opportunities and collaborations in electronics and communication.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://ganguly-web-reveal.lovable.app/)
-* ✉️  You can contact me at [priyanshuganguly312@gmail.com](mailto:priyanshuganguly312@gmail.com)
+* 🖥️  See my portfolio at : [My Portfolio](http://ganguly-web-reveal.lovable.app/)
+* ✉️  You can contact me at : [priyanshuganguly312@gmail.com](mailto:priyanshuganguly312@gmail.com)
 * 🧠  I'm learning Generative AI
 * 🤝  I'm open to collaborating on interesting projects
 
